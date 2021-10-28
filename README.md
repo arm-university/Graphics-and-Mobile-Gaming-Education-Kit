@@ -13,3 +13,32 @@ Our Graphics and Mobile Gaming Education Kit covers the fundamentals of video ga
 * A full set of lecture slides, ready for use in a typical 10-12-week undergraduate course (full syllabus below) .
 * Lab manuals with project code and solutions. All software tools needed in this kit are available free of charge. Some labs work best on an Android-based Mali GPU-powered smart device.
 * **Prerequisites:** Prerequisites: Basic understanding of C++/Java programming
+
+## Course Aim
+To enable students to create their own 3D games on mobile devices through the teaching of graphics and gaming fundamentals and hands-on practice using professional graphics API and game engines
+
+## Syllabus
+1	Introduction to Graphics and Game Programming
+2	GPU Architecture and Mali GPU
+3	Introduction to Graphics API, Vulkan and OpenGL ES
+4	Rendering Pipeline and Shader Programming
+5	3D Graphics and Matrix Manipulation
+6	Texturing and Lighting
+7	Performance Optimization and Programming Techniques
+8	Introduction to Game Engines
+9	Game Graphics and Audio
+10	The Design of Video Games
+11	3D Effects, Architecture and Performance Considerations
+12	Mixed Reality
+13	Arm Mobile Studio – Labs Only
+
+## License
+You are free to amend, modify, fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Rapid-Embedded-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
+
+## Inclusive Language Commitment
+Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
+ 
+Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This course contains references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community. 
+ 
+Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
+
