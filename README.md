@@ -11,7 +11,7 @@ Our Graphics and Mobile Gaming Education Kit covers the fundamentals of video ga
  ## Kit specification:
 
 * A full set of lecture slides, ready for use in a typical 10-12-week undergraduate course (full syllabus below) .
-* Lab manuals with project code and solutions. All software tools needed in this kit are available free of charge. Some labs work best on an Android-based Mali GPU-powered smart device.
+* Lab manuals with project code and solutions. All software tools needed in this kit are available free of charge. Some labs work best on an Android-based Mali GPU-powered smart device. Lab code and assets can be found [here](https://community.arm.com/aup/graphics-and-mobile-gaming/)
 * **Prerequisites:** Basic understanding of C++/Java programming
 
 ## Course Aim
