@@ -12,7 +12,7 @@ Our Graphics and Mobile Gaming Education Kit covers the fundamentals of video ga
 
 * A full set of lecture slides, ready for use in a typical 10-12-week undergraduate course (full syllabus below) .
 * Lab manuals with project code and solutions. All software tools needed in this kit are available free of charge. Some labs work best on an Android-based Mali GPU-powered smart device.
-* **Prerequisites:** Prerequisites: Basic understanding of C++/Java programming
+* **Prerequisites:** Basic understanding of C++/Java programming
 
 ## Course Aim
 To enable students to create their own 3D games on mobile devices through the teaching of graphics and gaming fundamentals and hands-on practice using professional graphics API and game engines
