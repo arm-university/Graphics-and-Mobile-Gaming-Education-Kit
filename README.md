@@ -1,5 +1,8 @@
 # Graphics-and-Mobile-Gaming-Education-Kit
-Graphics and Mobile Gaming Education Kit
+
+Welcome to our Graphics and Mobile Gaming Education Kit
+
+### [Download the EdKit here](https://github.com/arm-university/Graphics-and-Mobile-Gaming-Education-Kit/releases/download/V1.0/GG-Education-Kit-1.0.zip)
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
