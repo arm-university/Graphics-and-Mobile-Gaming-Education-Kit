@@ -48,7 +48,7 @@ To enable students to create their own 3D games on mobile devices through the te
 13	Arm Mobile Studio – Labs Only
 
 ## License
-You are free to amend, modify, fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Rapid-Embedded-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
+You are free to fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Graphics-and-Mobile-Gaming-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
