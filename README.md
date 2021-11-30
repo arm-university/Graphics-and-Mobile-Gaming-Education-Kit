@@ -21,31 +21,31 @@ Our Graphics and Mobile Gaming Education Kit covers the fundamentals of video ga
 To enable students to create their own 3D games on mobile devices through the teaching of graphics and gaming fundamentals and hands-on practice using professional graphics API and game engines
 
 ## Syllabus
-1	Introduction to Graphics and Game Programming
+1.	Introduction to Graphics and Game Programming
 
-2	GPU Architecture and Mali GPU
+2.	GPU Architecture and Mali GPU
 
-3	Introduction to Graphics API, Vulkan and OpenGL ES
+3.	Introduction to Graphics API, Vulkan and OpenGL ES
 
-4	Rendering Pipeline and Shader Programming
+4.	Rendering Pipeline and Shader Programming
 
-5	3D Graphics and Matrix Manipulation
+5.	3D Graphics and Matrix Manipulation
 
-6	Texturing and Lighting
+6.	Texturing and Lighting
 
-7	Performance Optimization and Programming Techniques
+7.	Performance Optimization and Programming Techniques
 
-8	Introduction to Game Engines
+8.	Introduction to Game Engines
 
-9	Game Graphics and Audio
+9.	Game Graphics and Audio
 
-10	The Design of Video Games
+10.	The Design of Video Games
 
-11	3D Effects, Architecture and Performance Considerations
+11.	3D Effects, Architecture and Performance Considerations
 
-12	Mixed Reality
+12.	Mixed Reality
 
-13	Arm Mobile Studio – Labs Only
+13.	Arm Mobile Studio – Labs Only
 
 ## License
 You are free to fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Graphics-and-Mobile-Gaming-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
