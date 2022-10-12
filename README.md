@@ -28,7 +28,7 @@ To enable students to create their own 3D games on mobile devices through the te
 5.	3D Graphics and Matrix Manipulation
 6.	Texturing and Lighting
 7.	Performance Optimization and Programming Techniques
-8.	Introduction to Game Engines
+8.	Introduction to Mobile Gaming
 9.	Game Graphics and Audio
 10.	The Design of Video Games
 11.	3D Effects, Architecture and Performance Considerations
