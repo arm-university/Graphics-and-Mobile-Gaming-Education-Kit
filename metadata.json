@@ -477,7 +477,7 @@
         {
             "title": "Mixed Reality Part 1, Module 12",
             "subject": ["arm", "unity", "mali", "vulkan-api", "software-design", "mobile-computing", "gaming-graphics-vr", "sw-design-development"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": ["Mark Allen", "Rob Sargeant", "Georgios Klokkaris", "Raluca Nae", "Marcel Calderon"],
             "publisher": "Arm Education",
@@ -496,7 +496,7 @@
         {
             "title": "Mixed Reality Part 2, Module 12",
             "subject": ["arm", "unity", "mali", "vulkan-api", "software-design", "mobile-computing", "gaming-graphics-vr", "sw-design-development"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": ["Mark Allen", "Rob Sargeant", "Georgios Klokkaris", "Raluca Nae", "Marcel Calderon"],
             "publisher": "Arm Education",
